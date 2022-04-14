@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HttpFundamentals.Task1.Listener", "HttpFundamentals.Task1.Listener\HttpFundamentals.Task1.Listener.csproj", "{B63C8D12-8738-47EB-B879-D3E733470AAE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HttpFundamentals.Task1.Client", "HttpFundamentals.Task1.Client\HttpFundamentals.Task1.Client.csproj", "{EF6500BE-536E-4106-A0C2-45EBA976DEFE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HttpFundamentals.Task2.Listener", "HttpFundamentals.Task2.Listener\HttpFundamentals.Task2.Listener.csproj", "{0821ADFB-6F8E-422A-BB22-3C106583D557}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HttpFundamentals.Task2.Client", "HttpFundamentals.Task2.Client\HttpFundamentals.Task2.Client.csproj", "{D25C74CF-9A39-439B-87E8-4D1C07E3F139}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HttpFundamentals.Task3-Task4.Listener", "HttpFundamentals.Task3.Listener\HttpFundamentals.Task3-Task4.Listener.csproj", "{6C3CC797-3CE9-4B7D-8172-F4948D123E60}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HttpFundamentals.Task3-Task4.Client", "HttpFundamentals.Task3-Task4.Client\HttpFundamentals.Task3-Task4.Client.csproj", "{6E7AD00D-88AF-4ACC-9227-0C62E673F803}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B63C8D12-8738-47EB-B879-D3E733470AAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B63C8D12-8738-47EB-B879-D3E733470AAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B63C8D12-8738-47EB-B879-D3E733470AAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B63C8D12-8738-47EB-B879-D3E733470AAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF6500BE-536E-4106-A0C2-45EBA976DEFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF6500BE-536E-4106-A0C2-45EBA976DEFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF6500BE-536E-4106-A0C2-45EBA976DEFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF6500BE-536E-4106-A0C2-45EBA976DEFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0821ADFB-6F8E-422A-BB22-3C106583D557}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0821ADFB-6F8E-422A-BB22-3C106583D557}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0821ADFB-6F8E-422A-BB22-3C106583D557}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0821ADFB-6F8E-422A-BB22-3C106583D557}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D25C74CF-9A39-439B-87E8-4D1C07E3F139}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D25C74CF-9A39-439B-87E8-4D1C07E3F139}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D25C74CF-9A39-439B-87E8-4D1C07E3F139}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D25C74CF-9A39-439B-87E8-4D1C07E3F139}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C3CC797-3CE9-4B7D-8172-F4948D123E60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C3CC797-3CE9-4B7D-8172-F4948D123E60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C3CC797-3CE9-4B7D-8172-F4948D123E60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C3CC797-3CE9-4B7D-8172-F4948D123E60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E7AD00D-88AF-4ACC-9227-0C62E673F803}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E7AD00D-88AF-4ACC-9227-0C62E673F803}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E7AD00D-88AF-4ACC-9227-0C62E673F803}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E7AD00D-88AF-4ACC-9227-0C62E673F803}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A3944F0-41D7-4EA9-A65A-0C6FC36DBEC4}
+	EndGlobalSection
+EndGlobal
